@@ -5,10 +5,37 @@ import random
 import os
 
 sentences = [
-    "Object Oriented Programming using Python",
+     "Object Oriented Programming using Python",
     "Full stack software developer.",
     "Python is a fun programming language.",
-    "Thabani Jason Moyo."
+    "Thabani Jason Moyo.",
+    "Artificial Intelligence is transforming the world.",
+    "Practice makes perfect when learning to type fast.",
+    "Cloud computing provides scalable and reliable services.",
+    "Machine learning enables computers to learn from data.",
+    "Cybersecurity protects networks and information systems.",
+    "Ngoni Dion.",
+    "Consistency is the key to mastering any skill.",
+    "The Internet of Things connects devices across the globe.",
+    "Always comment your code for better understanding.",
+    "Debugging is twice as hard as writing the code.",
+    "Stay curious and keep learning every single day.",
+    "Automation saves time and reduces human error.",
+    "Data science helps organizations make smarter decisions.",
+    "Software testing ensures reliability and performance.",
+    "Strong passwords improve online safety and security.",
+    "Version control systems help developers collaborate efficiently.",
+    "Innovation comes from continuous learning and experimentation.",
+    "Python syntax is simple, readable, and powerful.",
+    "Artificial intelligence will shape the future of technology.",
+    "Typing accurately is more important than typing fast.",
+    "Networking connects computers and people around the world.",
+    "Always backup your data before making major changes.",
+    "Every great programmer was once a beginner.",
+    "The best way to learn programming is by doing projects.",
+    "Technology continues to evolve at a rapid pace.",
+    "Reading documentation is an essential programming skill.",
+    "Never stop improving your skills and knowledge."
 ]
 
 sentence = random.choice(sentences)
